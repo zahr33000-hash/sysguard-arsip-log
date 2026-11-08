@@ -1,0 +1,4 @@
+RINGKASAN LOG
+Total INFO: 4
+Total WARNING: 2
+Total ERROR: 3

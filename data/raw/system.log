@@ -1,0 +1,9 @@
+INFO: Sistem berhasil dijalankan
+WARNING: Penggunaan memori meningkat
+ERROR: Layanan database gagal
+INFO: Pengguna berhasil login
+ERROR: Koneksi jaringan terputus
+WARNING: Kapasitas penyimpanan hampir penuh
+INFO: Proses backup dimulai
+ERROR: Proses backup gagal
+INFO: Layanan berhasil dipulihkan
